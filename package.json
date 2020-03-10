@@ -12,7 +12,7 @@
     "stylus": "git://github.com/stonebranch/stylus.git",
     "jade": "0.28.x",
     "nib": "~0.9.1",
-    "uglify-js": "~2.3.6",
+    "uglify-js": "~3.8.0",
     "jsdom": "*",
     "emitter-component": "~1.0.0",
     "debug": "~0.7.2"
