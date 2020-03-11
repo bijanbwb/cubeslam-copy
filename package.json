@@ -15,6 +15,6 @@
     "uglify-js": "~3.8.0",
     "jsdom": "*",
     "emitter-component": "~1.0.0",
-    "debug": "~0.7.2"
+    "debug": "~4.1.1"
   }
 }
